@@ -1,0 +1,1 @@
+powershell -windowstyle hidden I:\Script\battery-health-checker\script.ps1 > I:\Script\battery-health-checker\logs.txt
